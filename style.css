@@ -1,0 +1,34 @@
+body {
+    background-color: yellow;
+    color: black;
+    
+    }
+    .heading{
+    width: 80%;
+    font-size: 22px;
+    
+    }
+    .name_of_objects{
+    color: black;
+    }
+    #camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+    }
+    #result_object_name{
+    background-color: blanchedalmond;
+    color: black;
+    
+    }
+    #result_object_accuracy{
+    background-color: honeydew;
+    color: lawngreen;
+    }
+    #p{
+color: black;
+
+    }
+    hr{
+color: blue;
+    }
